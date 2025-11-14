@@ -1,2 +1,2 @@
 # hello-world
-A project to learn github.
+This is my first edit and learning commits.
